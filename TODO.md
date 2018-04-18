@@ -6,3 +6,4 @@
 * Symbiyosis : http://symbiyosys.readthedocs.io/en/latest/quickstart.html#installing
 * PyMTL : https://github.com/cornell-brg/pymtl
 * hwt : https://github.com/Nic30/hwtLib
+* BIL : https://github.com/florianbenz/bil
