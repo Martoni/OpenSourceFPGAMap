@@ -10,12 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1456.5695"
-   height="1128.6423"
+   width="1553.6741"
+   height="1203.8851"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fpgamap.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="fpgamap.svg"
+   viewBox="0 0 1456.5695 1128.6423">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2384288"
-     inkscape:cx="264.04661"
-     inkscape:cy="603.75624"
+     inkscape:zoom="2.289915"
+     inkscape:cx="1154.6315"
+     inkscape:cy="341.54621"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1600"
-     inkscape:window-y="31"
+     inkscape:window-width="1680"
+     inkscape:window-height="951"
+     inkscape:window-x="1366"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -71,7 +72,7 @@
          transform="translate(452.96653,-180.49304)"
          id="g4014">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.48436904;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.48436904;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3"
            width="129.74667"
            height="65.27652"
@@ -79,29 +80,29 @@
            y="449.39706" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-696.4519"
            y="493.82617"
-           id="text3975-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6"><tspan
              sodipodi:role="line"
              id="tspan3977-0"
              x="-696.4519"
-             y="493.82617">pod</tspan></text>
+             y="493.82617"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">pod</tspan></text>
       </g>
     </a>
     <rect
-       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:1.04582846"
        id="rect3991-3"
        width="383.38031"
-       height="506.38025"
+       height="553.85699"
        x="-42.852551"
        y="50.660938" />
     <rect
-       style="fill:#ffccaa;fill-opacity:1;stroke:none"
+       style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:1.08737588"
        id="rect3991"
        width="420.43533"
-       height="222.21472"
+       height="262.74362"
        x="359.50629"
        y="339.29953" />
     <a
@@ -111,7 +112,7 @@
          transform="translate(229.74104,-49.406675)"
          id="g3946">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.15654993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.15654993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004"
            width="193.00169"
            height="63.30122"
@@ -119,15 +120,15 @@
            y="419.63416" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="216.50294"
            y="465.24094"
-           id="text3006"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006"><tspan
              sodipodi:role="line"
              id="tspan3008"
              x="216.50294"
-             y="465.24094">icarus</tspan></text>
+             y="465.24094"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">icarus</tspan></text>
         <image
            y="421.90082"
            x="162.63708"
@@ -144,7 +145,7 @@
          transform="translate(208.7432,51.877009)"
          id="g3925">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.15700006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.15700006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-6"
            width="149.29739"
            height="65.202202"
@@ -152,15 +153,15 @@
            y="415.46484" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="436.6785"
            y="461.42493"
-           id="text3006-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3"><tspan
              sodipodi:role="line"
              id="tspan3008-6"
              x="436.6785"
-             y="461.42493">ghdl</tspan></text>
+             y="461.42493"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">ghdl</tspan></text>
       </g>
     </a>
     <a
@@ -170,7 +171,7 @@
          transform="matrix(1,0,0,1.0092272,30.87917,-50.777173)"
          id="g3930">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.06498337;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.06498337;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3848"
            width="133.39803"
            height="64.959969"
@@ -178,15 +179,15 @@
            y="416.25125" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="617.94318"
            y="460.63589"
-           id="text3006-3-7"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3-7"><tspan
              sodipodi:role="line"
              id="tspan3008-6-5"
              x="617.94318"
-             y="460.63589">nvc</tspan></text>
+             y="460.63589"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">nvc</tspan></text>
       </g>
     </a>
     <a
@@ -196,7 +197,7 @@
          transform="translate(392.78307,53.112176)"
          id="g3986">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.15654993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.15654993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5"
            width="193.00169"
            height="63.30122"
@@ -204,74 +205,75 @@
            y="411.77429" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="12.699897"
            y="456.1459"
-           id="text3006-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6"><tspan
              sodipodi:role="line"
              id="tspan3008-2"
              x="12.699897"
-             y="456.1459">verilator</tspan></text>
+             y="456.1459"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">verilator</tspan></text>
       </g>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="341.74643"
        y="-786.47235"
        id="text3996"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan3998"
          x="341.74643"
-         y="-786.47235">Simulation</tspan></text>
+         y="-786.47235"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Simulation</tspan></text>
     <rect
-       style="fill:#f4d7d7;fill-opacity:1;stroke:none"
+       style="fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:1.07414889"
        id="rect3991-1"
        width="418.72855"
-       height="109.17435"
+       height="125.9649"
        x="358.30606"
        y="53.697216" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="454.96078"
        y="41.751163"
-       id="text3996-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text3996-2"><tspan
          sodipodi:role="line"
          x="454.96078"
          y="41.751163"
-         id="tspan4161">Validation</tspan></text>
+         id="tspan4161"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Validation</tspan></text>
     <rect
-       style="fill:#ffeeaa;fill-opacity:1;stroke:none"
+       style="fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:0.86774606"
        id="rect3991-0"
        width="821.86456"
-       height="229.70285"
+       height="172.96237"
        x="-44.979824"
-       y="577.67206" />
+       y="618.20099" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="596.40265"
-       y="-791.17358"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="614.93018"
+       y="-790.01562"
        id="text3996-9"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan3998-3"
-         x="596.40265"
-         y="-791.17358">Synthesis</tspan></text>
+         x="614.93018"
+         y="-790.01562"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Synthesis</tspan></text>
     <a
        id="a4037"
-       xlink:href="http://www.clifford.at/yosys/">
+       xlink:href="http://www.clifford.at/yosys/"
+       transform="translate(113.91447,56.810723)">
       <g
          transform="translate(-52.403692,-66.378011)"
          id="g4108">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.73030066;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.73030066;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0"
            width="155.44716"
            height="63.30122"
@@ -279,15 +281,15 @@
            y="680.961" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="112.76477"
            y="722.71234"
-           id="text3006-6-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2"
              x="112.76477"
-             y="722.71234">yosys</tspan></text>
+             y="722.71234"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">yosys</tspan></text>
       </g>
     </a>
     <a
@@ -298,7 +300,7 @@
          transform="translate(-380.39659,-30.842809)"
          id="g4187">
         <rect
-           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:4.92650032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:4.92650032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-6-1"
            width="209.68588"
            height="65.202202"
@@ -306,44 +308,45 @@
            y="127.1515" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="494.21085"
            y="171.36481"
-           id="text3006-3-8"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3-8"><tspan
              sodipodi:role="line"
              id="tspan3008-6-7"
              x="494.21085"
-             y="171.36481">systemC</tspan></text>
+             y="171.36481"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">systemC</tspan></text>
       </g>
     </a>
     <rect
-       style="fill:#ffeeaa;fill-opacity:1;stroke:none"
+       style="fill:#ffeeaa;fill-opacity:1;stroke:none;stroke-width:1.05160081"
        id="rect3991-0-3"
        width="814.87738"
-       height="229.70285"
+       height="254.0202"
        x="-39.147049"
-       y="823.56067" />
+       y="799.24335" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="839.12531"
        y="-791.52362"
        id="text3996-9-7"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan3998-3-5"
          x="839.12531"
-         y="-791.52362">Hardware</tspan></text>
+         y="-791.52362"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Hardware</tspan></text>
     <a
        id="a4085"
-       xlink:href="http://www.clifford.at/icestorm/">
+       xlink:href="http://www.clifford.at/icestorm/"
+       transform="translate(-401.74534,4.4331998)">
       <g
          transform="translate(305.68821,-3.4935742)"
          id="g4269">
         <rect
-           style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:4.25281572;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:4.25281572;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2"
            width="202.04509"
            height="63.30122"
@@ -351,15 +354,15 @@
            y="961.42358" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="103.46043"
            y="1005.6453"
-           id="text3006-6-6-2"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8"
              x="103.46043"
-             y="1005.6453">icestorm</tspan></text>
+             y="1005.6453"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">icestorm</tspan></text>
       </g>
     </a>
     <a
@@ -370,7 +373,7 @@
          transform="translate(-125.98702,49.406675)"
          id="g3177">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.71419621;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.71419621;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-7"
            width="154.10786"
            height="63.30122"
@@ -378,15 +381,15 @@
            y="151.51768" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="123.63225"
            y="195.8893"
-           id="text3006-6-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-3"><tspan
              sodipodi:role="line"
              id="tspan3008-2-6"
              x="123.63225"
-             y="195.8893">Chisel</tspan></text>
+             y="195.8893"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">Chisel</tspan></text>
       </g>
     </a>
     <a
@@ -397,7 +400,7 @@
          transform="translate(-721.49693,-397.03032)"
          id="g4403">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.66801405;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.66801405;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-2"
            width="150.29935"
            height="63.30122"
@@ -405,15 +408,15 @@
            y="595.81415" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="890.28595"
            y="640.18579"
-           id="text3006-6-9"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-9"><tspan
              sodipodi:role="line"
              id="tspan3008-2-3"
              x="890.28595"
-             y="640.18579">migen</tspan></text>
+             y="640.18579"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">migen</tspan></text>
       </g>
     </a>
     <a
@@ -424,7 +427,7 @@
          transform="translate(473.06892,128.45736)"
          id="g3158">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.7562933;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.7562933;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-2-9"
            width="157.621"
            height="63.30122"
@@ -432,28 +435,28 @@
            y="233.41176" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="-482.70044"
            y="277.78342"
-           id="text3006-6-9-4"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-9-4"><tspan
              sodipodi:role="line"
              id="tspan3008-2-3-7"
              x="-482.70044"
-             y="277.78342">Cλash</tspan></text>
+             y="277.78342"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">Cλash</tspan></text>
       </g>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="105.77538"
        y="40.290161"
-       id="text3996-2-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text3996-2-6"><tspan
          sodipodi:role="line"
          x="105.77538"
          y="40.290161"
-         id="tspan4161-7">HDL</tspan></text>
+         id="tspan4161-7"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">HDL</tspan></text>
     <a
        id="a3127"
        xlink:href="https://en.wikipedia.org/wiki/Verilog"
@@ -462,7 +465,7 @@
          transform="translate(427.36774,2.4703338)"
          id="g3150">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.84192133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.84192133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-2-4-3"
            width="164.88914"
            height="63.30122"
@@ -470,15 +473,15 @@
            y="362.36761" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffaaaa;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffaaaa;fill-opacity:1;stroke:#000000"
            x="-264.1257"
            y="406.7392"
-           id="text3006-6-9-5-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-9-5-5"><tspan
              sodipodi:role="line"
              id="tspan3008-2-3-0-6"
              x="-264.1257"
-             y="406.7392">verilog</tspan></text>
+             y="406.7392"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">verilog</tspan></text>
       </g>
     </a>
     <a
@@ -488,7 +491,7 @@
          transform="translate(427.36774,6.1758344)"
          id="g3145">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.38121891;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.38121891;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-6-9"
            width="165.83725"
            height="65.202202"
@@ -496,15 +499,15 @@
            y="451.58432" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000"
            x="-240.70357"
            y="497.5444"
-           id="text3006-3-1"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3-1"><tspan
              sodipodi:role="line"
              id="tspan3008-6-2"
              x="-240.70357"
-             y="497.5444">vhdl</tspan></text>
+             y="497.5444"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">vhdl</tspan></text>
       </g>
     </a>
     <a
@@ -515,7 +518,7 @@
          transform="translate(518.77009,93.872683)"
          id="g3168">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.84192133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.84192133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-2-4"
            width="164.88914"
            height="63.30122"
@@ -530,28 +533,28 @@
            y="371.78525" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="-534.88"
            y="414.23801"
-           id="text3006-6-9-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-9-5"><tspan
              sodipodi:role="line"
              id="tspan3008-2-3-0"
              x="-534.88"
-             y="414.23801">MyHDL</tspan></text>
+             y="414.23801"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">MyHDL</tspan></text>
       </g>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-282.9436"
        y="40.129585"
-       id="text3996-2-6-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text3996-2-6-7"><tspan
          sodipodi:role="line"
          x="-282.9436"
          y="40.129585"
-         id="tspan4161-7-0">Build Tools</tspan></text>
+         id="tspan4161-7-0"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Build Tools</tspan></text>
     <a
        id="a4001"
        xlink:href="https://github.com/VLSI-EDA/PoC">
@@ -559,7 +562,7 @@
          transform="translate(82.741117,-83.670347)"
          id="g3979">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.48436904;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.48436904;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205"
            width="129.74667"
            height="65.27652"
@@ -567,15 +570,15 @@
            y="232.35843" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-356.34512"
            y="276.78754"
-           id="text3975"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975"><tspan
              sodipodi:role="line"
              id="tspan3977"
              x="-356.34512"
-             y="276.78754">PoC</tspan></text>
+             y="276.78754"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">PoC</tspan></text>
       </g>
     </a>
     <a
@@ -585,7 +588,7 @@
          transform="translate(-43.669744,-106.55418)"
          id="g4333">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-2"
            width="172.52133"
            height="65.27652"
@@ -593,25 +596,26 @@
            y="515.59955" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-247.28616"
            y="562.13721"
-           id="text3975-6-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-6"><tspan
              sodipodi:role="line"
              id="tspan3977-0-1"
              x="-247.28616"
-             y="562.13721">kactus2</tspan></text>
+             y="562.13721"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">kactus2</tspan></text>
       </g>
     </a>
     <a
        id="a4091"
-       xlink:href="http://www.fabienm.eu/flf/wp-content/uploads/2014/11/Note2008.pdf">
+       xlink:href="http://www.fabienm.eu/flf/wp-content/uploads/2014/11/Note2008.pdf"
+       transform="translate(60.777336,-39.722912)">
       <g
          transform="translate(195.64045,-120.5285)"
          id="g4325">
         <rect
-           style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.62501335;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.62501335;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2-7"
            width="146.79605"
            height="63.30122"
@@ -619,25 +623,26 @@
            y="968.83453" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="380.39481"
            y="1013.0563"
-           id="text3006-6-6-2-9"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2-9"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8-2"
              x="380.39481"
-             y="1013.0563">debit</tspan></text>
+             y="1013.0563"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">debit</tspan></text>
       </g>
     </a>
     <a
        id="a4043"
-       xlink:href="https://people.eecs.berkeley.edu/~alanmi/abc/abc.htm">
+       xlink:href="https://people.eecs.berkeley.edu/~alanmi/abc/abc.htm"
+       transform="translate(-47.581059,-64.192043)">
       <g
          transform="translate(-342.86735,-1.2715268)"
          id="g4114">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.25747561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.25747561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-23"
            width="118.53797"
            height="63.30122"
@@ -645,25 +650,26 @@
            y="701.04907" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="411.02841"
            y="742.80042"
-           id="text3006-6-6-7"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-7"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-5"
              x="411.02841"
-             y="742.80042">abc</tspan></text>
+             y="742.80042"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">abc</tspan></text>
       </g>
     </a>
     <a
        id="a4049"
-       xlink:href="https://github.com/verilog-to-routing/vtr-verilog-to-routing">
+       xlink:href="https://github.com/verilog-to-routing/vtr-verilog-to-routing"
+       transform="translate(-265.92716,119.95007)">
       <g
          transform="translate(-284.72673,-59.390851)"
          id="g4149">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.25747561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.25747561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-23-2"
            width="118.53797"
            height="63.30122"
@@ -671,44 +677,45 @@
            y="667.57318" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="582.76379"
            y="711.79486"
-           id="text3006-6-6-7-2"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-7-2"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-5-8"
              x="582.76379"
-             y="711.79486">vtr</tspan></text>
+             y="711.79486"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">vtr</tspan></text>
       </g>
     </a>
     <rect
-       style="fill:#f4d7d7;fill-opacity:1;stroke:none"
+       style="fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.93483937"
        id="rect3991-1-9"
        width="418.72855"
-       height="142.36336"
+       height="124.41484"
        x="361.836"
-       y="176.78383" />
+       y="194.73235" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="172.37221"
        y="-793.85156"
        id="text3996-7"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan3998-36"
          x="172.37221"
-         y="-793.85156">Test Lib</tspan></text>
+         y="-793.85156"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Test Lib</tspan></text>
     <a
        id="a3164"
-       xlink:href="http://bitvis.no/products/uvvm/">
+       xlink:href="http://bitvis.no/products/uvvm/"
+       transform="matrix(0.93074042,0,0,0.77967276,23.738385,109.55942)">
       <g
          transform="matrix(1,0,0,1.0092272,-214.52237,-234.16499)"
          id="g3930-1">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.06498337;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.06498337;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3848-2"
            width="133.39803"
            height="64.959969"
@@ -716,36 +723,35 @@
            y="416.25125" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="595.23492"
            y="462.3667"
-           id="text3006-3-7-9"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3-7-9"><tspan
              sodipodi:role="line"
              id="tspan3008-6-5-3"
              x="595.23492"
-             y="462.3667">UVVM</tspan></text>
+             y="462.3667"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">UVVM</tspan></text>
       </g>
     </a>
     <g
        id="g4320"
-       transform="translate(157.21108,-2.6201846)">
+       transform="matrix(0.87953473,0,0,0.76325022,235.11366,67.698646)">
       <rect
          y="261.58441"
          x="480.91962"
          height="48.856197"
          width="115.24178"
          id="rect3848-2-4"
-         style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.2766192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.2766192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          transform="scale(0.99541809,1.004603)"
-         sodipodi:linespacing="125%"
          id="text3006-3-7-9-5"
          y="298.34622"
          x="495.21277"
-         style="font-size:40.18412018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303"
          xml:space="preserve"><tspan
-           style="stroke-width:1.00460303"
+           style="font-size:40.18412018px;line-height:1.25;font-family:sans-serif;stroke-width:1.00460303"
            y="298.34622"
            x="495.21277"
            id="tspan3008-6-5-3-0"
@@ -754,12 +760,12 @@
     <a
        id="a3170"
        xlink:href="http://potential.ventures/cocotb/"
-       transform="translate(33.349506,-0.61758344)">
+       transform="matrix(0.85364617,0,0,0.79126346,194.58347,56.539076)">
       <g
          transform="translate(-41.04956,-21.398174)"
          id="g4303">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.36940861;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.36940861;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3848-2-9"
            width="152.71729"
            height="65.559364"
@@ -774,27 +780,27 @@
            y="207.35263" />
         <text
            xml:space="preserve"
-           style="font-size:40.18412018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303"
            x="567.16089"
            y="250.96425"
            id="text3006-3-7-9-4"
-           sodipodi:linespacing="125%"
            transform="scale(0.99541808,1.004603)"><tspan
              sodipodi:role="line"
              id="tspan3008-6-5-3-7"
              x="567.16089"
              y="250.96425"
-             style="stroke-width:1.00460303">cocotb</tspan></text>
+             style="font-size:40.18412018px;line-height:1.25;font-family:sans-serif;stroke-width:1.00460303">cocotb</tspan></text>
       </g>
     </a>
     <a
        id="a4073"
-       xlink:href="http://torc-isi.sourceforge.net/">
+       xlink:href="http://torc-isi.sourceforge.net/"
+       transform="translate(-2.3159379,-37.055007)">
       <g
          transform="translate(-90.833067,-101.31381)"
          id="g4368">
         <rect
-           style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.28330421;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.28330421;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2-7-6"
            width="120.4252"
            height="63.30122"
@@ -802,25 +808,26 @@
            y="956.08032" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="105.74833"
            y="1000.3021"
-           id="text3006-6-6-2-9-1"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2-9-1"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8-2-0"
              x="105.74833"
-             y="1000.3021">torc</tspan></text>
+             y="1000.3021"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">torc</tspan></text>
       </g>
     </a>
     <a
        id="a4055"
-       xlink:href="https://soc-extras.lip6.fr/en/alliance-abstract-en/">
+       xlink:href="https://soc-extras.lip6.fr/en/alliance-abstract-en/"
+       transform="translate(-128.53456,30.107193)">
       <g
          transform="translate(-26.201842,-345.86438)"
          id="g4404">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.96305513;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.96305513;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2-3"
            width="275.1651"
            height="63.30122"
@@ -828,25 +835,26 @@
            y="957.82715" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="502.59372"
            y="1002.0489"
-           id="text3006-6-6-2-2"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2-2"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8-0"
              x="502.59372"
-             y="1002.0489">alliance CAD</tspan></text>
+             y="1002.0489"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">alliance CAD</tspan></text>
       </g>
     </a>
     <a
        id="a4079"
-       xlink:href="https://github.com/Wolfgang-Spraul/fpgatools">
+       xlink:href="https://github.com/Wolfgang-Spraul/fpgatools"
+       transform="translate(87.186834,33.145524)">
       <g
          transform="translate(-274.24599,321.40931)"
          id="g4439">
         <rect
-           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:4.39569044;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:4.39569044;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2-3-1"
            width="215.84863"
            height="63.30122"
@@ -854,15 +862,15 @@
            y="610.216" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="434.59149"
            y="654.43774"
-           id="text3006-6-6-2-2-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2-2-5"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8-0-5"
              x="434.59149"
-             y="654.43774">fpgatools</tspan></text>
+             y="654.43774"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">fpgatools</tspan></text>
       </g>
     </a>
     <a
@@ -872,7 +880,7 @@
          transform="translate(-1.7467898,-47.163323)"
          id="g4474">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-2-7"
            width="172.52133"
            height="65.27652"
@@ -880,15 +888,15 @@
            y="907.92938" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-236.97859"
            y="954.46704"
-           id="text3975-6-6-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-6-6"><tspan
              sodipodi:role="line"
              id="tspan3977-0-1-5"
              x="-236.97859"
-             y="954.46704">OpenPR</tspan></text>
+             y="954.46704"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">OpenPR</tspan></text>
       </g>
     </a>
     <a
@@ -898,7 +906,7 @@
          transform="translate(0,43.669744)"
          id="g4509">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.68395925;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.68395925;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-23-9"
            width="151.60893"
            height="63.30122"
@@ -906,15 +914,15 @@
            y="706.28943" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="-216.82921"
            y="748.04077"
-           id="text3006-6-6-7-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-7-3"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-5-7"
              x="-216.82921"
-             y="748.04077">qflow</tspan></text>
+             y="748.04077"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">qflow</tspan></text>
       </g>
     </a>
     <a
@@ -924,7 +932,7 @@
          transform="translate(270.75241,10.480739)"
          id="g4544">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.73030066;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.73030066;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-5"
            width="155.44716"
            height="63.30122"
@@ -932,15 +940,15 @@
            y="704.5426" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="283.51276"
            y="746.29395"
-           id="text3006-6-6-25"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-25"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-4"
              x="283.51276"
-             y="746.29395">OdinII</tspan></text>
+             y="746.29395"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">OdinII</tspan></text>
       </g>
     </a>
     <a
@@ -950,7 +958,7 @@
          transform="translate(-69.87159,-1.7467898)"
          id="g4579">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.81319666;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.81319666;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-2-7-4"
            width="247.57977"
            height="65.27652"
@@ -958,25 +966,26 @@
            y="949.85236" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-238.72537"
            y="996.39001"
-           id="text3975-6-6-6-4"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-6-6-4"><tspan
              sodipodi:role="line"
              id="tspan3977-0-1-5-3"
              x="-238.72537"
-             y="996.39001">RapidSmith</tspan></text>
+             y="996.39001"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">RapidSmith</tspan></text>
       </g>
     </a>
     <a
        id="a4067"
-       xlink:href="https://github.com/cseed/arachne-pnr">
+       xlink:href="https://github.com/cseed/arachne-pnr"
+       transform="translate(-79.420213,21.579955)">
       <g
          transform="translate(22.708267,-83.845908)"
          id="g4614">
         <rect
-           style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:4.81747532;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#e5ff80;fill-opacity:1;stroke:#000000;stroke-width:4.81747532;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-0-2-78"
            width="259.25919"
            height="63.30122"
@@ -984,15 +993,15 @@
            y="870.48767" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="219.61375"
            y="914.70941"
-           id="text3006-6-6-2-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-6-2-6"><tspan
              sodipodi:role="line"
              id="tspan3008-2-2-8-8"
              x="219.61375"
-             y="914.70941">arachnepnr</tspan></text>
+             y="914.70941"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">arachnepnr</tspan></text>
       </g>
     </a>
     <a
@@ -1002,7 +1011,7 @@
       <g
          id="g3990">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.21000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.21000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-6-1-7"
            width="333.21747"
            height="65.202202"
@@ -1010,15 +1019,15 @@
            y="178.68179" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="-4.0547442"
            y="222.89511"
-           id="text3006-3-8-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-3-8-5"><tspan
              sodipodi:role="line"
              id="tspan3008-6-7-3"
              x="-4.0547442"
-             y="222.89511">systemVerilog</tspan></text>
+             y="222.89511"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">systemVerilog</tspan></text>
       </g>
     </a>
     <rect
@@ -1030,22 +1039,22 @@
        y="48.832222" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-599.85181"
        y="32.716049"
-       id="text3996-2-6-7-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text3996-2-6-7-6"><tspan
          sodipodi:role="line"
          x="-599.85181"
          y="32.716049"
-         id="tspan4161-7-0-2">Dev Tools</tspan></text>
+         id="tspan4161-7-0-2"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Dev Tools</tspan></text>
     <a
        id="a3457"
        xlink:href="http://gtkwave.sourceforge.net/">
       <g
          id="g3452">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-27"
            width="217.48428"
            height="65.27652"
@@ -1053,15 +1062,15 @@
            y="130.91537" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-576.66827"
            y="175.34448"
-           id="text3975-6-0"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-0"><tspan
              sodipodi:role="line"
              id="tspan3977-0-9"
              x="-576.66827"
-             y="175.34448">gtkWave</tspan></text>
+             y="175.34448"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">gtkWave</tspan></text>
       </g>
     </a>
     <a
@@ -1071,7 +1080,7 @@
          transform="translate(-8.6461682,6.1758344)"
          id="g3205">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.5101037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:4.5101037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-7-7"
            width="227.23131"
            height="63.30122"
@@ -1079,15 +1088,15 @@
            y="291.23959" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="-6.6827621"
            y="335.61121"
-           id="text3006-6-3-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-3-5"><tspan
              sodipodi:role="line"
              id="tspan3008-2-6-3"
              x="-6.6827621"
-             y="335.61121">SpinalHDL</tspan></text>
+             y="335.61121"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">SpinalHDL</tspan></text>
       </g>
     </a>
     <a
@@ -1098,7 +1107,7 @@
          transform="translate(-43.669744,-106.55418)"
          id="g4333-6">
         <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.01788425;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-2-75"
            width="172.52133"
            height="65.27652"
@@ -1106,25 +1115,26 @@
            y="515.59955" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-247.28616"
            y="562.13721"
-           id="text3975-6-6-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-6-3"><tspan
              sodipodi:role="line"
              id="tspan3977-0-1-56"
              x="-247.28616"
-             y="562.13721">fusesoc</tspan></text>
+             y="562.13721"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">fusesoc</tspan></text>
       </g>
     </a>
     <a
        id="a3503"
-       xlink:href="https://vunit.github.io/">
+       xlink:href="https://vunit.github.io/"
+       transform="matrix(0.90425468,0,0,0.87084325,106.89485,35.78038)">
       <g
          transform="translate(2.4703338,8.0285847)"
          id="g3245">
         <rect
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.83303976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:3.83303976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3848-2-9-1"
            width="152.71729"
            height="50.451733"
@@ -1139,17 +1149,16 @@
            y="254.51598" />
         <text
            xml:space="preserve"
-           style="font-size:40.18412018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303"
            x="465.05603"
            y="289.91971"
            id="text3006-3-7-9-4-7"
-           sodipodi:linespacing="125%"
            transform="scale(0.99541809,1.004603)"><tspan
              sodipodi:role="line"
              id="tspan3008-6-5-3-7-0"
              x="465.05603"
              y="289.91971"
-             style="stroke-width:1.00460303">vunit</tspan></text>
+             style="font-size:40.18412018px;line-height:1.25;font-family:sans-serif;stroke-width:1.00460303">vunit</tspan></text>
       </g>
     </a>
     <a
@@ -1158,7 +1167,7 @@
       <g
          id="g3288">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-27-6"
            width="217.48428"
            height="65.27652"
@@ -1166,20 +1175,20 @@
            y="361.1842" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-576.98523"
            y="407.36011"
-           id="text3975-6-0-0"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-0-0"><tspan
              sodipodi:role="line"
              id="tspan3977-0-9-6"
              x="-576.98523"
-             y="407.36011">icestudio</tspan></text>
+             y="407.36011"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">icestudio</tspan></text>
       </g>
     </a>
     <g
        id="g3305"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1080.3109"
          x="-606.12543"
@@ -1188,20 +1197,20 @@
          id="rect3299"
          style="fill:#ffaaaa" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301"
          y="1119.2518"
          x="-552.08087"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1119.2518"
            x="-552.08087"
            id="tspan3303"
-           sodipodi:role="line">Verilog</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">Verilog</tspan></text>
     </g>
     <g
        id="g3340"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1080.0399"
          x="-397.65063"
@@ -1210,20 +1219,20 @@
          id="rect3299-6"
          style="fill:#00ff00" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301-1"
          y="1118.9808"
          x="-343.60608"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1118.9808"
            x="-343.60608"
            id="tspan3303-8"
-           sodipodi:role="line">VHDL</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">VHDL</tspan></text>
     </g>
     <g
        id="g3375"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1080.3108"
          x="-207.91724"
@@ -1232,20 +1241,20 @@
          id="rect3299-6-9"
          style="fill:#00ffff" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301-1-2"
          y="1119.2517"
          x="-153.87268"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1119.2517"
            x="-153.87268"
            id="tspan3303-8-0"
-           sodipodi:role="line">C/C++</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">C/C++</tspan></text>
     </g>
     <g
        id="g3410"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1078.8048"
          x="-1.1773947"
@@ -1254,20 +1263,20 @@
          id="rect3299-6-3"
          style="fill:#ddff55" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301-1-7"
          y="1117.7457"
          x="52.867161"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1117.7457"
            x="52.867161"
            id="tspan3303-8-5"
-           sodipodi:role="line">Lattice</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">Lattice</tspan></text>
     </g>
     <g
        id="g3463"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1077.6907"
          x="203.0383"
@@ -1276,20 +1285,20 @@
          id="rect3299-6-3-2"
          style="fill:#aa0000" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301-1-7-2"
          y="1116.6316"
          x="257.08286"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1116.6316"
            x="257.08286"
            id="tspan3303-8-5-8"
-           sodipodi:role="line">Xilinx</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">Xilinx</tspan></text>
     </g>
     <g
        id="g3498"
-       transform="translate(93.872683,0)">
+       transform="translate(93.872683)">
       <rect
          y="1075.9438"
          x="384.2793"
@@ -1298,24 +1307,25 @@
          id="rect3299-6-3-2-7"
          style="fill:#ffff00" />
       <text
-         sodipodi:linespacing="125%"
          id="text3301-1-7-2-3"
          y="1114.8848"
          x="438.32385"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1114.8848"
            x="438.32385"
            id="tspan3303-8-5-8-6"
-           sodipodi:role="line">all/other</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif">all/other</tspan></text>
     </g>
     <a
        id="a3248"
-       xlink:href="https://github.com/xprova/xprova">
+       xlink:href="https://github.com/xprova/xprova"
+       transform="translate(-68.358392,35.715406)">
       <g
          id="g3243">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.10230446;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.10230446;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3848-2-4-6"
            width="163.83578"
            height="53.867241"
@@ -1323,17 +1333,16 @@
            y="83.936142" />
         <text
            xml:space="preserve"
-           style="font-size:40.18412018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303"
            x="458.05795"
            y="121.39779"
            id="text3006-3-7-9-5-7"
-           sodipodi:linespacing="125%"
            transform="scale(0.99541809,1.004603)"><tspan
              sodipodi:role="line"
              id="tspan3008-6-5-3-0-5"
              x="458.05795"
              y="121.39779"
-             style="stroke-width:1.00460303">xprova</tspan></text>
+             style="font-size:40.18412018px;line-height:1.25;font-family:sans-serif;stroke-width:1.00460303">xprova</tspan></text>
       </g>
     </a>
     <a
@@ -1342,7 +1351,7 @@
       <g
          id="g3257">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.71419621;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.71419621;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3004-5-7-75"
            width="154.10786"
            height="63.30122"
@@ -1357,15 +1366,15 @@
            y="64.709969" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
            x="194.64944"
            y="107.38377"
-           id="text3006-6-3-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3006-6-3-3"><tspan
              sodipodi:role="line"
              id="tspan3008-2-6-5"
              x="194.64944"
-             y="107.38377">vhd2vl</tspan></text>
+             y="107.38377"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">vhd2vl</tspan></text>
       </g>
     </a>
     <a
@@ -1374,7 +1383,7 @@
       <g
          id="g3265">
         <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.51117802;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3205-3-27-6-7"
            width="217.48428"
            height="65.27652"
@@ -1389,15 +1398,15 @@
            y="493.98062" />
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-545.3399"
            y="537.4209"
-           id="text3975-6-0-0-5"
-           sodipodi:linespacing="125%"><tspan
+           id="text3975-6-0-0-5"><tspan
              sodipodi:role="line"
              id="tspan3977-0-9-6-3"
              x="-545.3399"
-             y="537.4209">fizzim</tspan></text>
+             y="537.4209"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">fizzim</tspan></text>
       </g>
     </a>
     <rect
@@ -1408,5 +1417,251 @@
        x="204.72891"
        y="515.99957"
        transform="translate(-632.32727,2.3254242)" />
+    <a
+       id="a294"
+       xlink:href="https://github.com/FPGAwars/apio">
+      <g
+         id="g292">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.39448142;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3205-3-27-6-75"
+           width="121.06766"
+           height="66.393211"
+           x="-591.44678"
+           y="605.22925" />
+        <text
+           transform="scale(0.95204347,1.0503722)"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:11.46004868px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95500404"
+           x="-603.12634"
+           y="622.94257"
+           id="text3975-6-0-0-3"><tspan
+             sodipodi:role="line"
+             id="tspan3977-0-9-6-5"
+             x="-603.12634"
+             y="622.94257"
+             style="font-size:38.20016098px;line-height:1.25;font-family:sans-serif;stroke-width:0.95500404">APIO</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4009"
+       xlink:href="https://github.com/xprova/bisect-tau"
+       transform="translate(-54.860116,-55.678925)">
+      <g
+         id="g4007">
+        <rect
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.58678913;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3205-3-2-75-9"
+           width="226.81255"
+           height="64.707619"
+           x="434.81909"
+           y="939.14294" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="442.77457"
+           y="985.39618"
+           id="text3975-6-6-3-1"><tspan
+             sodipodi:role="line"
+             id="tspan3977-0-1-56-2"
+             x="442.77457"
+             y="985.39618"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">bisect-tau</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4054"
+       xlink:href="https://github.com/cseed/cynth">
+      <g
+         id="g4052">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.35517812;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3004-5-2-93"
+           width="125.13686"
+           height="63.614056"
+           x="210.27876"
+           y="297.13089" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
+           x="215.07129"
+           y="341.65897"
+           id="text3006-6-9-6"><tspan
+             sodipodi:role="line"
+             id="tspan3008-2-3-06"
+             x="215.07129"
+             y="341.65897"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">Cynth</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4099"
+       xlink:href="http://thuang19.web.engr.illinois.edu/software/timer/OpenTimer.html"
+       transform="matrix(1.043874,0,0,1.1319499,-41.174363,-0.97098543)">
+      <g
+         transform="matrix(0.77967829,0,0,0.77967829,128.32854,50.906329)"
+         id="g4097">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.96634722;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3848-2-4-6-1"
+           width="244.03371"
+           height="53.003197"
+           x="570.07733"
+           y="75.224861" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00460303"
+           x="584.23169"
+           y="112.29638"
+           id="text3006-3-7-9-5-7-8"
+           transform="scale(0.99541809,1.004603)"><tspan
+             sodipodi:role="line"
+             id="tspan3008-6-5-3-0-5-7"
+             x="584.23169"
+             y="112.29638"
+             style="font-size:40.18412018px;line-height:1.25;font-family:sans-serif;stroke-width:1.00460303">OpenTimer</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4144"
+       xlink:href="http://opencircuitdesign.com/magic/">
+      <g
+         id="g4142">
+        <rect
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:4.71161985;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3205-3-2-75-9-0"
+           width="239.78864"
+           height="64.582787"
+           x="480.9028"
+           y="966.84833" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="488.79587"
+           y="1013.0391"
+           id="text3975-6-6-3-1-2"><tspan
+             sodipodi:role="line"
+             id="tspan3977-0-1-56-2-3"
+             x="488.79587"
+             y="1013.0391"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">Magic VLSI</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4198"
+       xlink:href="http://symbiyosys.readthedocs.io">
+      <g
+         id="g4196">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:4.06819677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3004-5-0-9"
+           width="230.53244"
+           height="50.76672"
+           x="394.36163"
+           y="61.282589" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.28568745px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.85714066"
+           x="385.62979"
+           y="99.797302"
+           id="text3006-6-6-22"
+           transform="scale(1.0516189,0.95091481)"><tspan
+             sodipodi:role="line"
+             id="tspan3008-2-2-89"
+             x="385.62979"
+             y="99.797302"
+             style="font-size:34.28562546px;line-height:1.25;font-family:sans-serif;stroke-width:0.85714066">SymbiYosys</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4243"
+       xlink:href="https://github.com/cornell-brg/pymtl">
+      <g
+         id="g4241">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.71419621;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3004-5-7-6"
+           width="154.10786"
+           height="63.30122"
+           x="154.97621"
+           y="533.97931" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
+           x="165.9812"
+           y="578.35095"
+           id="text3006-6-3-1"><tspan
+             sodipodi:role="line"
+             id="tspan3008-2-6-2"
+             x="165.9812"
+             y="578.35095"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">PyMTL</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4350"
+       xlink:href="https://github.com/Nic30/hwt">
+      <g
+         transform="translate(23.448872,-26.054302)"
+         id="g4348">
+        <rect
+           style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:3.42693353;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3004-5-2-4-1"
+           width="130.33728"
+           height="63.716202"
+           x="-29.017147"
+           y="558.25952" />
+        <rect
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.75339603"
+           id="rect3163-9"
+           width="44.843086"
+           height="59.936195"
+           x="16.768829"
+           y="559.90338" />
+        <rect
+           style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.72124714"
+           id="rect3163-9-8"
+           width="41.097656"
+           height="59.936195"
+           x="58.505829"
+           y="559.97687" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
+           x="-10.856898"
+           y="604.57556"
+           id="text3006-6-9-5-4"><tspan
+             sodipodi:role="line"
+             id="tspan3008-2-3-0-7"
+             x="-10.856898"
+             y="604.57556"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">HWT</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a4397"
+       xlink:href="https://github.com/florianbenz/bil">
+      <g
+         id="g4395">
+        <rect
+           style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.04661274;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3004-5-0-2-7-0"
+           width="102.74943"
+           height="63.87962"
+           x="439.2168"
+           y="808.37775" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000"
+           x="457.34726"
+           y="852.88867"
+           id="text3006-6-6-2-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan3008-2-2-8-2-6"
+             x="457.34726"
+             y="852.88867"
+             style="font-size:40px;line-height:1.25;font-family:sans-serif">BIL</tspan></text>
+      </g>
+    </a>
   </g>
 </svg>
