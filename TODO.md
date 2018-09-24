@@ -7,3 +7,5 @@
 * pyha : https://github.com/gasparka/pyha
 * TL-x : http://tl-x.org/
 * HDL-tools: https://github.com/IBM/hdl-tools
+* QRouter : https://github.com/leviathanch/qrouter
+* GrayWolf : https://github.com/leviathanch/graywolf
