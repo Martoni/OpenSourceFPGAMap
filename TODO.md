@@ -9,3 +9,4 @@
 * HDL-tools: https://github.com/IBM/hdl-tools
 * QRouter : https://github.com/leviathanch/qrouter
 * GrayWolf : https://github.com/leviathanch/graywolf
+* OpTiMSoC : https://optimsoc.org/
