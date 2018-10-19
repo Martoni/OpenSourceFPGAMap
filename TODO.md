@@ -11,3 +11,4 @@
 * GrayWolf : https://github.com/leviathanch/graywolf
 * OpTiMSoC : https://optimsoc.org/
 * CDL: http://cyclicity-cdl.sourceforge.net/
+* PyVerilog : https://github.com/PyHDI/Pyverilog
