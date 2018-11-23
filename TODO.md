@@ -13,3 +13,4 @@
 * CDL: http://cyclicity-cdl.sourceforge.net/
 * PyVerilog : https://github.com/PyHDI/Pyverilog
 * Cascade : https://github.com/vmware/cascade
+* Magma : https://github.com/phanrahan/magma
