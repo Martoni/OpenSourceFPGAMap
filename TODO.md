@@ -14,3 +14,4 @@
 * PyVerilog : https://github.com/PyHDI/Pyverilog
 * Cascade : https://github.com/vmware/cascade
 * Magma : https://github.com/phanrahan/magma
+* nextpnr : https://github.com/YosysHQ/nextpnr
