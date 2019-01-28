@@ -16,3 +16,4 @@
 * Magma : https://github.com/phanrahan/magma
 * nextpnr : https://github.com/YosysHQ/nextpnr
 * CAPH : http://caph.univ-bpclermont.fr/CAPH/CAPH.html, https://github.com/jserot/caph
+* TAPAS: https://github.com/sfu-arch/TAPAS, http://www.cs.sfu.ca/~ashriram/papers/2018_MICRO_TAPAS.pdf
