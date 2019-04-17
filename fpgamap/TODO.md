@@ -18,3 +18,4 @@
 * CAPH : http://caph.univ-bpclermont.fr/CAPH/CAPH.html, https://github.com/jserot/caph
 * TAPAS: https://github.com/sfu-arch/TAPAS, http://www.cs.sfu.ca/~ashriram/papers/2018_MICRO_TAPAS.pdf
 * PRGA : https://prga.readthedocs.io/en/latest/
+* GAUT : http://www.gaut.fr/
