@@ -1,3 +1,4 @@
+* FireSim : https://fires.im/
 * SymbiFlow : https://symbiflow.github.io/
 * Verilog-perl : https://www.veripool.org/wiki/verilog-perl
 * logisim-evolution : https://github.com/reds-heig/logisim-evolution
